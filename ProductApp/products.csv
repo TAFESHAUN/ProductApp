@@ -1,0 +1,11 @@
+﻿ProductId,ProductName,ProductPrice,ProductCalcCode
+1,Widget,19.99,W001
+2,Gadget,29.99,G002
+3,Doohickey,9.99,D003
+4,Thingamajig,14.99,T004
+5,Contraption,24.99,C005
+6,Whatchamacallit,34.99,W006
+7,Gizmo,39.99,G007
+8,Tool,49.99,T008
+9,Device,59.99,D009
+10,Mechanism,44.99,M010
