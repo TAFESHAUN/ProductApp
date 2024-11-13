@@ -1,5 +1,8 @@
 ﻿namespace ProductApp
 {
+    /// <summary>
+    /// Product class type for Product object list from CSV data
+    /// </summary>
     public class Product
     {
         public int ProductId { get; set; }

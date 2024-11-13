@@ -4,8 +4,16 @@ using System.Linq;
 
 namespace ProductApp
 {
+    /// <summary>
+    /// Current Product Data Loader class functions
+    /// </summary>
     public static class ProductDataLoader
     {
+        /// <summary>
+        /// LoadProducts loads in the the CSV data products from a file
+        /// </summary>
+        /// <param name="filePath">filePath is the file path for loading product CSV data </param>
+        /// <returns>LoadProducts returns a List of Product. Product object list</returns>
         public static List<Product> LoadProducts(string filePath)
         {
             List<Product> products = new List<Product>();

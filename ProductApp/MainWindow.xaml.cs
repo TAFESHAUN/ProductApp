@@ -7,6 +7,9 @@ namespace ProductApp
     {
         Product cProduct = new Product();
 
+        /// <summary>
+        /// Initialises the main window wpf
+        /// </summary>
         public MainWindow()
         {
             InitializeComponent();
